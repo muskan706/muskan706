@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @muskan706
 - 👀 I’m interested in web Development and exploring myself in differnet fields too.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- Languages and Tools: HTML5, CSS3, PHP. Bootstrap, Java, and JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/muskan-gupta-75720017b/
 
 <!---
